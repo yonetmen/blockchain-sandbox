@@ -1,5 +1,6 @@
-package domain;
+package app;
 
+import domain.Block;
 import lombok.Data;
 
 import java.util.ArrayList;
